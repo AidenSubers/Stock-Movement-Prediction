@@ -1,4 +1,8 @@
 # Implementation Platform (Parent Paper)
+Final Project for Writing in Data Science
+#
+Brett Morris, Aiden Subers
+#
 Gradient Boost and SVM are the implementations for novelty. Our initial implementation using Random Forest had data leakage from the parent paper and that is fixed in the newest versions.
 
 Comparing to a baseline accuracy of 56% for significance in stock trend prediction, we were able to achieve a 10-day stock trend prediction accuracy of 55.17% for Random Forest, 51.46% for Gradient Boosting, and 62.07% for Support Vector Machines.
